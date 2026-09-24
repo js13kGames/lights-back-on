@@ -1,4 +1,8 @@
 ---
+genres:
+  - puzzle
+  - horror
+  - adventure
 post: https://github.com/amolinasalazar/LightsBackOn/blob/master/README.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
